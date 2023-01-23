@@ -1,4 +1,10 @@
 # XivParty
+
+### I did not make this addon, nor do I take credit for making it! All the information from the original addon is below and full credit goes to the creator(s) of this addon. All I did was move items around and/or redesign parts of the UI. My UI has been highly requested for years, so here you go! Simply replace my character name in the settings with your own and everything should work fine - Brixy
+### I did not make this addon, nor do I take credit for making it! All the information from the original addon is below and full credit goes to the creator(s) of this addon. All I did was move items around and/or redesign parts of the UI. My UI has been highly requested for years, so here you go! Simply replace my character name in the settings with your own and everything should work fine. Make a backup just to be safe! - Brixy
+![alt text](https://i.imgur.com/sweY5Uw.png)
+
+
 A party list addon for Windower 4.
 
 Shows party members' HP/MP/TP, main job, sub job and current buffs. Buffs can be filtered and are sorted debuffs before buffs for easier visibility. Distance to party members is indicated by dimming HP bars when out of casting or targeting range.

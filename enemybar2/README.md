@@ -1,5 +1,10 @@
 # enemybar
 
+### I did not make this addon, nor do I take credit for making it! All the information from the original addon is below and full credit goes to the creator(s) of this addon. All I did was move items around and/or redesign parts of the UI. My UI has been highly requested for years, so here you go! Simply replace my character name in the settings with your own and everything should work fine - Brixy
+![alt text](https://i.imgur.com/rGUYEob.png)
+
+
+
 This is an addon for Windower4 for FFXI. It creates a big health bar for the target to make it easy to see.
 
 ![alt text](https://i.imgur.com/8g96UZY.png)
